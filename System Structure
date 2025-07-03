@@ -1,0 +1,6 @@
+bank-management-system/
+│
+├── main.py                 ← Your Python script
+├── README.md               ← Project description
+├── requirements.txt        ← Dependencies
+└── schema.sql              ← MySQL database + table creation
