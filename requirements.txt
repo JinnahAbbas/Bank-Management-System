@@ -1,0 +1,6 @@
+mysql-connector-python
+
+
+You can generate this automatically by running:
+
+pip freeze > requirements.txt
