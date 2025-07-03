@@ -1,0 +1,9 @@
+Login to MySQL:
+
+mysql -u root -p
+
+Run the schema:
+
+sql
+
+SOURCE schema.sql;
